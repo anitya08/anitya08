@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anitya08
-- 👀 I’m interested in python and java
+- 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on front end projects
 - 📫 anityajain2000@gmail.com / Whats App-8982012008
